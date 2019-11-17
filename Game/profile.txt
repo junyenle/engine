@@ -1,0 +1,10 @@
+name: avg (ms), max (ms)
+DELAY_LOOP:, 0.076319, 22.489200
+UPDATE:, 0.858678, 46.167700
+RENDERFRAME_set_ps_constant_buffers:, 0.006085, 0.125600
+RENDERFRAME_draw_objects:, 0.120449, 9.360200
+RENDERFRAME_ALL:, 15.650876, 24.337700
+RENDERFRAME_upload_lighting_buffer:, 0.008304, 3.600100
+RENDERFRAME_set_active_camera:, 0.014908, 0.131000
+RENDERFRAME_begin_frame:, 0.009006, 0.097400
+RENDERFRAME_end_frame_swapchain_present:, 15.246034, 23.900800
